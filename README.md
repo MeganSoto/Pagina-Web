@@ -18,3 +18,5 @@ Como en otros virus que causan neumonía, cuando se transmiten en humanos, el co
 +Escalofríos y malestar general.
 
 +Secreción y goteo nasal.
+
++Muerte
